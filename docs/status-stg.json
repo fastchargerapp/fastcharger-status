@@ -1,13 +1,8 @@
 {
   "maintenance": true,
-  "version": "<=25.08.01",
+  "version": "<=25.08.26",
   "fullscreen": {
     "title": "App update required",
-    "message": "We’ve made important changes to improve stability and security ⚡ Please update the app to the latest version, sorry if this is not a good time 💫😒",
-    "button": {
-      "text": "Update",
-      "style": "primary",
-      "link": "https://onelink.to/9jqr6t"
-    }
+    "message": "We’ve made important changes to improve stability and security ⚡ Please update the app to the latest version, sorry if this is not a good time 💫😒"
   }
 }
