@@ -1,7 +1,13 @@
 {
   "maintenance": false,
+  "version": "<=25.08.26",
   "fullscreen": {
-    "title": "Scheduled maintenance",
-    "message": "We’re upgrading our system to make experience even better⚡ Everything will be back online soon — please, try opening the app again in 30 minutes 🙏⏳"
+    "title": "App update required",
+    "message": "We’ve made important changes to improve stability and security ⚡ Please update the app to the latest version, sorry if this is not a good time 💫😒",
+    "button": {
+      "text": "Update",
+      "style": "primary",
+      "link": "https://onelink.to/9jqr6t"
+    }
   }
 }
