@@ -1,6 +1,6 @@
 {
-  "maintenance": false,
-  "version": "<=25.08.21",
+  "maintenance": true,
+  "version": "<=25.08.27",
   "fullscreen": {
     "title": "App update required",
     "message": "We’ve made important changes to improve stability and security ⚡ Please update the app to the latest version, sorry if this is not a good time 💫😒",
