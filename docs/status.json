@@ -1,5 +1,5 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "version": "<=25.08.21",
   "fullscreen": {
     "title": "App update required",
