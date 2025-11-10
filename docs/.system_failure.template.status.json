@@ -1,0 +1,12 @@
+{
+  "maintenance": true,
+  "fullscreen": {
+    "title": "Maintenance in progress",
+    "message": "We’re currently experiencing a service interruption and are actively working to fix the issue. We sincerely apologize for the inconvenience 🙏",
+    "button": {
+      "text": "Refresh",
+      "style": "secondary",
+      "link": ""
+    }
+  }
+}
